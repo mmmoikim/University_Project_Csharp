@@ -1,0 +1,8 @@
+C:\Users\정성진\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\정성진\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\정성진\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\정성진\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\정성진\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\정성진\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\정성진\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\정성진\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
